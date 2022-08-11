@@ -17,17 +17,17 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">Visual Studio Code</img>
 <br>
 
-### About me:
+### Shop:
 prova
-<!-- - [Project L.A.](https://discord.gg/zrcqYugEWm) - Owner / Developer
+ - [Script&Bot](discord.gg/scriptebot) - Bot Developer / Web Designer
 
-You won't find much here on my github profile. Most of my work is done privately for specific servers i work for, or normally my releases are paid and purchasable. Any questions about private work can be directed to my discord profile: 𝘠𝘰𝘚𝘰𝘺𝘚𝘦𝘳𝘨𝘩𝘪𝘵𝘰⛧#7662 -->
+You won't find much here on my github profile. Most of my work is done privately for specific servers i work for, or normally my releases are paid and purchasable. Any questions about private work can be directed to my discord profile: Matte.Tex#8857 
  
 ### Qualifications:
 - HTML | Skilled
 - CSS  | Skilled
 - JS | Skilled
-- PHP  | Skilled
+- Visual Basic  | Skilled
 - MYSQL | Skilled
 
 
