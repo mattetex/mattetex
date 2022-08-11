@@ -2,40 +2,26 @@
 ![](https://komarev.com/ghpvc/?username=mattetex&color=green)
 ## Information
 
-**Languages:**
+### Languages:
+<a href="https://www.lua.org/" target="_blank"> <img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"/> </a>
 
- <a href="https://www.lua.org/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/      Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png"/> </a>
+<br>
+
+### Softwares:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">Visual Studio Code</img>
+<br>
+
+### About me:
+- [Project L.A.](https://discord.gg/zrcqYugEWm) - Owner / Developer
+
+You won't find much here on my github profile. Most of my work is done privately for specific servers i work for, or normally my releases are paid and purchasable. Any questions about private work can be directed to my discord profile: 𝘠𝘰𝘚𝘰𝘺𝘚𝘦𝘳𝘨𝘩𝘪𝘵𝘰⛧#7662
+ 
+### Qualifications:
+- HTML | Skilled
+- CSS  | Skilled
+- JS | Skilled
+- PHP  | Skilled
+- MYSQL | Skilled
 
 
-
-
-
-
-
-
-**ciao**
-
-
-* [Comando Assistenza](https://github.com/mattetex/matteosbot/blob/main/commands/help/assistenza2.js)
-* [Ban](https://github.com/mattetex/matteosbot/blob/main/commands/moderazione/ban.js)
-* [Unban](https://github.com/mattetex/matteosbot/blob/main/commands/moderazione/unban.js)
-* [Warn](https://github.com/mattetex/matteosbot/blob/main/commands/moderazione/00warn.js)
-* [Embed](https://github.com/mattetex/matteosbot/blob/main/commands/comandiDiTesto/00embed.js)
-* [Everyone](https://github.com/mattetex/matteosbot/blob/main/commands/comandiDiTesto/everyone.js)
-
-**Events:**
-
-* Ticket System
-* Verifica
-* Bandi
-* Richiesta Fazione
-* Whitelist
-* Logs
-
-## Developer
-
-* [Matte.Tex#8857](https://matte-tex-web.000webhostapp.com/)
-
-## Discord
-
-<a href="https://discord.gg/jUaqPgQUEX" target="_blank"><img src="https://i.imgur.com/S4WoOw9.png" alt="Matteo's Bot" style="height: auto !important;width: auto !important;" ></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoSoySerghito&show_icons=true&theme=radical" />
