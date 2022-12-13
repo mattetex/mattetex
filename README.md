@@ -10,6 +10,8 @@
 
 - 🤖 I'm a **Discord bot** developer
 
+- 🎹 **I'm a producer**
+
 - 📫 How to reach me **Discord: Matte.Tex#8857**
 
 - ⚡ Fun fact **I'm a climber and alpinist**
