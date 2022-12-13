@@ -59,7 +59,7 @@
   
 - Other
 
-  [![My Skills](https://skillicons.dev/icons?i=pr,ps,ae,arduino,cpp&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=pr,ps,ae,arduino,cpp,ableton&perline=3)](https://skillicons.dev)
 
 <hr>
 
