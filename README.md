@@ -17,7 +17,7 @@
 ---
 
 ## 🎧 Now Playing
-[![Spotify](https://novatorem-black-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31xvba75reszzf5wzfayoa4ymbbe)
+[![Spotify](https://novatorem-black-nu.vercel.app/api/spotify?background_color=0d1117&border_color=00b347)](https://open.spotify.com/user/31xvba75reszzf5wzfayoa4ymbbe)
 
 ---
 
