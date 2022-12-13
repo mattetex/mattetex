@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm mattetex</h1>
+<h1 align="center">Hi 👋, I'm MatteTex</h1>
 <h3 align="center">Full-stack web developer apprentice</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattetex&color=green" alt="mattetex" /> </p>
