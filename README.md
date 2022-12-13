@@ -1,31 +1,72 @@
-# Mattetex
-![](https://komarev.com/ghpvc/?username=mattetex&color=green)
-## Information
 
-### Languages:
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png"/> JavaScript </a>
+<h1 align="center">Hi 👋, I'm mattetex</h1>
+<h3 align="center">Full-stack web developer apprentice</h3>
 
-<br>
-<a href="https://html.com/" target="_blank"> <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"/> html / css </a>
-
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattetex&color=green" alt="mattetex" /> </p>
 
 
-### Softwares:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">Visual Studio Code</img>
-<br>
-
-### Shop:
- - [Script&Bot](discord.gg/scriptebot) - Bot Developer / Web Designer
-
-You won't find much here on my github profile. Most of my work is done privately for specific servers i work for, or normally my releases are paid and purchasable. Any questions about private work can be directed to my discord profile: Matte.Tex#8857 
- 
-### Qualifications:
-- HTML | Skilled
-- CSS  | Skilled
-- JS | Skilled
-- Visual Basic  | Skilled
-- MYSQL | Skilled
+[![trophy](https://github-profile-trophy.vercel.app/?username=mattetex&theme=onedark&title=Stars,Followers,Commit,Joined2020,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattetex&show_icons=true&theme=radical" />
+- 🤖 I'm a **Discord bot** developer
+
+- 📫 How to reach me **Discord: Matte.Tex#8857**
+
+- ⚡ Fun fact **I'm a climber and alpinist**
+
+---
+
+## 🎧 Now Playing
+[![Spotify](https://novatorem-black-nu.vercel.app/api/spotify)](https://open.spotify.com/user/31xvba75reszzf5wzfayoa4ymbbe)
+
+---
+
+## 🔍 Connected whit me
+  
+  [![My Skills](https://skillicons.dev/icons?i=instagram&perline=3)](https://skillicons.dev)
+
+---
+
+## ⚡ Lenguage and tools:
+
+- Front-end development
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
+
+- Back-end development
+
+  [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+
+- Database
+
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://skillicons.dev)
+  
+- Desktop application development
+
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java&perline=3)](https://skillicons.dev)
+  
+- Project Management and CD/CI
+
+  [![My Skills](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
+  
+- Back-end as a Service (BaaS)
+
+  [![My Skills](https://skillicons.dev/icons?i=heroku&perline=3)](https://skillicons.dev)
+
+- Source-code editor
+
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio&perline=3)](https://skillicons.dev)
+  
+- Other
+
+  [![My Skills](https://skillicons.dev/icons?i=pr,ps,ae,arduino,cpp&perline=3)](https://skillicons.dev)
+
+<hr>
+
+<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mattetex&show_icons=true&theme=cobalt&locale=en" alt="mattetex" /></span>
+
+## Support
+
+<span><a href="https://www.buymeacoffee.com/mattetex"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mattetex" /></a></span><br><br>
+
+If you want to support me clik this button, thanks so mutch 😍
